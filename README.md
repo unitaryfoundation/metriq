@@ -28,4 +28,7 @@ Please report issues in the relevant component repository. If you're unsure whic
 
 ## Roadmap
 
-For a detailed roadmap of the Metriq platform, please refer to the [Wiki page](https://github.com/unitaryfoundation/metriq/wiki/Metriq-Platform#roadmap).
+For a detailed roadmap of the Metriq platform, please refer to the [Metriq Roadmap 2026](./docs/roadmap/2026.md) document.
+
+## Metriq Paper
+_Preprint_: Alessandro Cosentino, Changhao Li, Vincent Russo, Bradley A. Chase, Tom Lubinski, Siyuan Niu, Neer Patel, Nathan Shammah, and William J. Zeng. _Metriq: A Collaborative Platform for Benchmarking Quantum Computers_, [arXiv:2603.08680](https://arxiv.org/abs/2603.08680) (2026).
