@@ -26,6 +26,8 @@ flowchart LR
 
 Please report issues in the relevant component repository. If you're unsure which one is correct, open the issue here and it will be triaged.
 
+To propose a new physical quantum device, open a [device onboarding issue](https://github.com/unitaryfoundation/metriq/issues/new?template=device_onboarding.md) here to coordinate work across components.
+
 ## Roadmap
 
 For a detailed roadmap of the Metriq platform, please refer to the [Metriq Roadmap 2026](./docs/roadmap/2026.md) document.
